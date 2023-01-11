@@ -1,2 +1,2 @@
 # Stepik
-Education on the Stepik platform.
+Training on the Stepik platform.
