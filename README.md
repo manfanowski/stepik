@@ -1,2 +1,2 @@
-# stepik
-Education
+# Stepik
+Education on the Stepik platform.
